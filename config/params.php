@@ -2,4 +2,4 @@
 /**
  * USE .ENV FOR REAL PROJECT
  */
-putenv('APIKEY=45d9f68f3a8448648d4a4f81ff3b5f76');
+putenv('APIKEY=YOUR_APP_ID');
